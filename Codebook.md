@@ -1,6 +1,6 @@
 # Code Book
 
-This code book has information of the process of the script and variables in data set.
+This code book has information of the process of the script and variables in data the set.
 
 ##run_analysis.R
 The following were done to produce output tidydata.txt and averagetidydata.txt
@@ -21,9 +21,9 @@ The following were done to produce output tidydata.txt and averagetidydata.txt
 * Remove activity number and only show activitylabels
 * Merges subject numbers from train and test 
 * Merges subject, activity, and measurements 
-* write table in to tidydata.txt
-* creates independent tidy data set with the average of each variable for each activity and each subject by melting and casting
-* writes new average tidy data in to averagetidydata.txt
+* Writes table in to tidydata.txt
+* Creates independent tidy data set with the average of each variable for each activity and each subject by melting and casting
+* Writes new average tidy data in to averagetidydata.txt
 
 
 
