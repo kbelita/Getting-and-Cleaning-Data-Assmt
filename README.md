@@ -27,7 +27,7 @@
 * tidydata.txt
 * averagetidydata.txt
 
-> comments in run_analysis.R further gives a step-by-step instructions to produce tidy data sets.
+> Comments in run_analysis.R give a step-by-step instructions to produce tidy data sets.
 
 ##Packages
 > run_analyis.R uses data.table and rshape2
